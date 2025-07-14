@@ -1,0 +1,257 @@
+ABI:
+  type: Book
+  title: "Foundations of Databases"
+  author: Serge Abiteboul, Richard Hull, Victor Vianu
+
+AZE:
+  type: Book
+  title: "Introduction au Machine Learning"
+  author: Chloé-Agathe Azencott
+BAR:
+    type: Book
+    title: "Informatique MPI/MP2I"
+    author: Vincent Barra
+BEAU:
+  type: Book
+  title: "Beautiful Code: Leading Programmers Explain How They Think"
+  author: Andy Oram, Greg Wilson
+CAR:
+    type: Book
+    title: "Langages formels: Calculabilité et complexité"
+    author: Olivier Carton, Galvin Greg Gagnees
+CERV:
+  type: Book
+  title: Penser en Algorithmes
+  author: Brian Christian, Tom Griffiths
+CHA:
+  type: Book
+  title: "Software Testing : Principles and Practices"
+  author: Naresh Chauhan
+COMPI:
+  type: Book
+  title: "Compilation : analyse lexicale et syntaxique"
+  author: François Schwarzentruber, Romain Legendre
+COR2:
+    type: Book
+    title: "Introduction à l'algorithmique (2nd édition)"
+    author: Thomas H. Cormen
+COR3:
+    type: Book
+    title: "Introduction à l'algorithmique (3rd édition)"
+    author: Thomas H. Cormen
+CSAPP:
+    type: Book
+    title: "Computer Systems, A programmer's perspective"
+    author: "Randal E. Bryant, David R. O’Hallaron"
+DESG:
+  type: Book
+  title: "Design patterns : catalogue de modèles de conception réutilisable"
+  author:
+    - Erich Gamma
+    - Richard Helm
+    - Ralph Jonhson
+    - John Vlissides
+DRAG:
+    type: Book
+    title: "Compilateurs, Principes, techniques et outils"
+    author:
+      - A. Aho
+      - M. Lam
+      - R. Sethi
+      - J. Ullman
+GRA:
+  type: Book
+  title: "Finite Model Theory and Its Applications"
+  author: Erich Grädel
+KOR:
+  type: Book
+  title: "Unit Testing : Principles, Practices and Patterns"
+  author: Vladimir Khorikov
+MAN:
+  type: Book
+  title: "Man page"
+  author: Linux
+MITCH:
+  type: Book
+  title: "Concepts in programming languages"
+  author: John C. Mitchell
+MITZ:
+  type: Book
+  title: "Probability and Computing"
+  author: Michael Mitzenmacher, Eli Upfal
+MOS:
+  type: Book
+  title: Modern Operating System, 5th Edition
+  author: Tanenbaum, Bos
+MPLI:
+  type: Book
+  title: "Mathématiques pour l’informatique Avec 309 exercices corrigés"
+  author:
+    - André Arnold
+    - Irène Guessarian
+NSIP:
+    type: Book
+    title: "Numériques et Sciences Informatiques 1er"
+    author:
+        - Thibaut Balabonski
+        - Sylvain Conchon
+        - Jean-Christophe Filliâtre
+        - Kim Nguyen
+NSIT:
+    type: Book
+    title: "Numériques et Sciences Informatiques Terminale"
+    author:
+        - Thibaut Balabonski
+        - Sylvain Conchon
+        - Jean-Christophe Filliâtre
+        - Kim Nguyen
+OCA:
+    type: Book
+    title: Apprendre à programmer avec Ocaml
+    author: Sylvain Conchon, Jean-Christophe Filliâtre
+PAPA:
+  type: Book
+  title: Algorithms
+  author: Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani
+PAT:
+    type: Book
+    title: "Computer Organisation and Design, RISC-V Edition"
+    author: David A. Patterson, John L. Henessi
+RWOCA:
+  type: Book
+  title: "Real World OCaml: Functional programming for the masses"
+  author: Yaron Minsky, Anil Madhavapeddy
+SIL:
+  type: Book
+  title: "Database System Concepts, 6th Edition"
+  author: Abraham Silberschatz
+SED:
+    type: Book
+    title: Algorithms (4th edition)
+    author: Robert Sedgewick, Keven Wayne
+SCHWARZ:
+  type: Book
+  title: "Logique: Fondements et application"
+  author:
+    - Pierre le Barbenchon
+    - Sophie Pinchinat
+    - François Schwarzentruber
+TIGER:
+  type: Book
+  title: Modern compiler implementation
+  author: "Androw Appel"
+TOR:
+    type: Book
+    title: "MP2I MPI, Informatique Cours et exercices corrigés"
+    author:
+        - Thibaut Balabonski
+        - Sylvain Conchon
+        - Jean-Christophe Filliâtre
+        - Kim Nguyen
+        - Laurent Sartre
+TPL:
+  type: Book
+  title: "Types and Programming Languages"
+  author: Benjamin Pierce
+VACHE:
+  type: Book
+  title: "Database Management Systems 3rd edition"
+  author: Rahnu Ramakrishnan, Johannes Gehrke
+VAH:
+    type: Book
+    title: "Digital Design"
+    author: Frank Vahid
+VAZ:
+  type: Book
+  title: "Algorithmes d’approximation"
+  author: Vijay V. Vazirani
+VERT:
+    type: Book
+    title: "Informatique MP2I-MPI"
+    author:
+        - Florent Becker
+        - Olivier Bournez
+        - Jean-Loup Carré
+        - Mathieu Liedloff
+        - Julien Reichert
+        - Gérard Rozsavolgyi
+VIA:
+    type: Thesis
+    title: "Solutions parallèles efficaces sur le modèle CGM d’une classe de problèmes issus de la programmation dynamique"
+    author: Kengne Tchendji Vianney
+HAI:
+  type: Book
+  title: "Bases de données et modèles de calcul: outils et méthode pour l'utilisateur"
+  author: Jean-Luc Hainaut
+BEN:
+  type: Book
+  title: "Bases de données et systèmes d'infomations : Modèles relationnen, SQL, optimisation des données"
+  author: Saïd Benaïchou
+GARD:
+  type: Book
+  title: Bases de données
+  author: Georges Gardarin
+DSC:
+  type: Book
+  title: Database System Concepts
+  author: Abraham Silberchatz, Henry F. Korth, S. Sudarshan
+KURO:
+  type: Book
+  title: Computer Networks, a top-down approach, 8th edition
+  author: James F. Kurose, Keith W. Ross
+PPREM:
+  type: Book
+  title: Programme de NSI en première
+  author: Éducation nationale
+RESO:
+  type: Book
+  title: Réseaux, 6° édition, en français
+  author: Andrew Tanenbaum, Nick Feamster, David J. Wetherall
+OSC:
+  type: Book
+  title: "Silberschatz's Operating System Concepts, Global Edition"
+  author: Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
+GC:
+  type: Book
+  title: "The Garbage Collection Hand Book: the art of automating memory management"
+  author: Richard Jones, Antony Hoskings, Eliot Moss
+CRO:
+  type: Book
+  title: "Algorithmique du texte / Algorithms on strings"
+  author: Maxime Crochemore, Christophe Hancart, Thierry Lecroq
+GUS:
+  type: Book
+  title: "Algorithms for Strings, Trees, and Sequences"
+  author: Dan Gusfield
+SEMA:
+  type: Book
+  title: "Little Book of Semaphores"
+  author: Allen B. Downey
+OSTEP:
+  type: Book
+  title: "Operating Systems, three easy pieces"
+  author: Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+LANG:
+  type: Book
+  title: Speech and Language Processing
+  author: Dan Jurafsky, James H. Martin
+RAY:
+  type: Book
+  title: "Concurrent Programming: Algorithms, Principles, and Foundations"
+  author: Michel Raynal
+DORIT:
+  type: Book
+  title: "Approximation Algorithms for NP-Hard problems"
+  author: Dorit S. Hochbaum
+SEM:
+  type: Book
+  title: Semantic with Applications An Appetizer
+  author: Hanne Riis Nielson, Flemming Nielson
+SIP:
+  type : Book
+  title: Introduction to the Theory of Computation
+  author: Michael Sipser
+NAN:
+  type: Book
+  title: NAN
+  author: NAN
