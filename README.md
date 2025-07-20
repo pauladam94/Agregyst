@@ -40,7 +40,6 @@ NAN:
 ```))
 ```
 
-- image
 
 
 More complete example with full recap nice.
@@ -83,11 +82,16 @@ More complete example with full recap nice.
 // ...
 ```
 
-- 4 SVGs of the all document nicely put.
+<!-- <picture> -->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="example-dark.png"> -->
+<!--   <img alt="Example output" src="example-light.png"> -->
+<!-- </picture> -->
+[]!(thumbnail/thumbnail.png)
 
 
 ## Limitations
 - bibliography is yaml only
 - the format is made for 3 pages and no more. The final Recap will not work for
   more than 3 pages.
+- adding the recap will add the warning that typst is using more than 5 passes
 

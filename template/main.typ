@@ -6,16 +6,25 @@
 #pagebreak()
 == First Part
 
-// Definition of a graph
-#item("Définition")[A Graph][
+// This item does not have a source
+// is will be show gray in the recap
+#item("Définition")[@NAN A Graph][
+    is ...
+]
+
+
+#item("Définition")[@NAN A Graph][
     is ...
 ]
 
 #pagebreak()
-== Second Part
+
+// This part has the SIP reference
+// it will have a special color in the recap
+== Second Part @SIP
 
 #pagebreak()
-== Third Part
+== Third Part @NAN
 
 #recap()
 
