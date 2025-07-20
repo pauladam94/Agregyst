@@ -1,4 +1,4 @@
-#import "../tableau.typ" : tableau, dev, recap, item
+#import "../agregyst.typ" : tableau, dev, recap, item
 #import "@preview/cetz:0.3.1" : *
 #show : content => tableau(content, nb_columns : 2)
 

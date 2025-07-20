@@ -40,26 +40,6 @@ NAN:
 ```))
 ```
 
-```yaml
-DORIT:
-  type: Book
-  title: "Approximation Algorithms for NP-Hard problems"
-  author: Dorit S. Hochbaum
-SEM:
-  type: Book
-  title: Semantic with Applications An Appetizer
-  author: Hanne Riis Nielson, Flemming Nielson
-SIP:
-  type : Book
-  title: Introduction to the Theory of Computation
-  author: Michael Sipser
-NAN:
-  type: Book
-  title: NAN
-  author: NAN
-```
-
-
 - image
 
 
@@ -105,4 +85,9 @@ More complete example with full recap nice.
 
 - 4 SVGs of the all document nicely put.
 
+
+## Limitations
+- bibliography is yaml only
+- the format is made for 3 pages and no more. The final Recap will not work for
+  more than 3 pages.
 
