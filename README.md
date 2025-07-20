@@ -40,9 +40,7 @@ NAN:
 ```))
 ```
 
-
-
-More complete example with full recap nice.
+More complete example with a full recap :
 
 ```typ
 #import "../tableau.typ" : tableau, dev, recap, item

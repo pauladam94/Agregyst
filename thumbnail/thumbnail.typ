@@ -4,9 +4,7 @@
   height: 1024pt * (29.7 / 21),
 )
 
-#let ima(path) = image(
-  path,
-)
+#let ima(path) = image(path)
 
 #align(center,
   block(breakable: false,

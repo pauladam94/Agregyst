@@ -1,4 +1,4 @@
-#import "../agregyst.typ" : tableau, dev, recap, item
+#import "@preview/agregyst:0.1.0" : tableau, dev, recap, item
 #show : tableau
 
 = Title of the lesson
