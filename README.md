@@ -16,7 +16,7 @@ Here a very basic example
 
 // Definition of a graph
 #item("Définition")[A Graph][
-    is 
+    is
 ]
 
 #pagebreak()
