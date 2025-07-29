@@ -1,6 +1,6 @@
 #import "../agregyst.typ" : tableau, dev, recap, item
 #import "@preview/cetz:0.3.1" : *
-#show : content => tableau(content, nb_columns : 2)
+#show : tableau
 
 // CODLY
 #import "@preview/codly:1.3.0": *
